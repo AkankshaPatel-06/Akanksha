@@ -1,4 +1,4 @@
-profile_readme = """
+
 <h1 align="center">Hi 👋, I'm Akanksha Patel</h1>
 <h3 align="center">Aspiring Software Developer | Python & Web Development Enthusiast</h3>
 
