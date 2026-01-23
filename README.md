@@ -2,18 +2,14 @@ profile_readme = """
 <h1 align="center">Hi 👋, I'm Akanksha Patel</h1>
 <h3 align="center">Aspiring Software Developer | Python & Web Development Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🙋‍♀️ About Me
 - 🎓 Bachelor’s Degree in **Electronics & Communication Engineering**
 - 💻 Passionate about **Python, Web Development & Programming**
 - 🌱 Currently learning **Data Structures, OOPs & Backend Development**
-- 🚀 Actively preparing for **IT roles (Accenture / Infosys / TCS)**
-- 🤝 Open to **internships & fresher opportunities**
+- 🚀 Actively preparing for **IT roles**
+- 🤝 Open to **Internships & Fresher opportunities**
 
 ---
 
@@ -52,8 +48,6 @@ profile_readme = """
 - Calculator
 - File handling programs
 
-👉 *More projects coming soon…*
-
 ---
 
 ## 📊 GitHub Stats
@@ -68,16 +62,12 @@ profile_readme = """
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@example.com
-- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: http://linkedin.com/in/akanksha-patel-088159297
+- 📧 Email: akanksha798p@gmail.com
+- 🧑‍💻 GitHub: https://github.com/AkankshaPatel-06
 
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
 """
 
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(profile_readme)
-
-print("✅ README.md created successfully!")
