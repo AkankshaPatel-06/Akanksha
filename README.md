@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Developer | Python Enthusiast  
 💻 Backend & Data-Oriented Problem Solver  
-📈 #100DaysOfCode Learner | Consistent & Curious
+📈 #30DaysOfCode Learner | Consistent & Curious
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 ## 🌱 Learning Journey
-📌 100 Days of Code  
+📌 30 Days of Code  
 📌 Python Projects & Problem Solving  
 📌 Exploring real-world workflows & automation
 
