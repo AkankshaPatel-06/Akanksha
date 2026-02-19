@@ -1,62 +1,58 @@
+# Hi 👋, I'm Akanksha Patel
 
-<h1 align="center">Hi 👋, I'm Akanksha Patel</h1>
-<h3 align="center">Aspiring Software Developer | Python & Web Development Enthusiast</h3>
-
----
-
-## 🙋‍♀️ About Me
-- 🎓 Bachelor’s Degree in **Electronics & Communication Engineering**
-- 💻 Passionate about **Python, Web Development & Programming**
-- 🌱 Currently learning **Data Structures, OOPs & Backend Development**
-- 🚀 Actively preparing for **IT roles**
-- 🤝 Open to **Internships & Fresher opportunities**
+🚀 Aspiring Software Developer | Python Enthusiast  
+💻 Backend & Data-Oriented Problem Solver  
+📈 #100DaysOfCode Learner | Consistent & Curious
 
 ---
 
-## 🛠️ Skills & Technologies
-**Languages**
-- Python  
-- C / C++  
-- SQL  
-
-**Web Development**
-- HTML  
-- CSS  
-- JavaScript  
-- Flask (Basics)  
-
-**Tools**
-- Git & GitHub  
-- VS Code  
-- MySQL  
+## 👩‍💻 About Me
+- Electronics & Communication Engineering graduate
+- Strong foundation in **Python, OOP, SQL, JavaScript**
+- Experience with **HTML, CSS, React, MySQL, SQLite**
+- Building real-world projects to strengthen fundamentals
+- Interested in **Backend Development, Data Analysis & ServiceNow**
 
 ---
 
-## 📌 Projects
-🔹 **Student Management System (Python)**
-- CRUD operations using Python
-- File / database handling
-- Modular & clean code structure
-
-🔹 **Hand Gesture Volume Control**
-- Python + OpenCV
-- Real-time gesture detection
-- System volume control automation
-
-🔹 **Mini Python Projects**
-- Number guessing game
-- Calculator
-- File handling programs
+## 🛠️ Technical Skills
+**Languages:** Python, C++, JavaScript, SQL  
+**Web:** HTML5, CSS3, React.js  
+**Databases:** MySQL, SQLite  
+**Concepts:** OOP, Data Structures, File Handling, REST APIs  
+**Tools:** Git, GitHub, VS Code, PyCharm  
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: http://linkedin.com/in/akanksha-patel-088159297
+## 📂 Featured Projects
+🔹 **Bank Account System (Python OOP)**  
+🔹 **Student Grade Analyzer (Advanced Python)**  
+🔹 **Student Management System (Python + SQLite)**  
+🔹 **To-Do List Manager (Python)**  
+
+👉 Check pinned repositories for details.
+
+---
+
+## 📈 Current Focus
+- Deepening Python fundamentals
+- Writing clean, modular, and efficient code
+- Building backend-oriented projects
+- Preparing for entry-level developer roles
+
+---
+
+## 🌱 Learning Journey
+📌 100 Days of Code  
+📌 Python Projects & Problem Solving  
+📌 Exploring real-world workflows & automation
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/AkankshaPatel
 - 📧 Email: akanksha798p@gmail.com
-- 🧑‍💻 GitHub: https://github.com/AkankshaPatel-06
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
-"""
-
+⭐ *I believe consistency beats intensity. One day, one commit, one improvement.*
